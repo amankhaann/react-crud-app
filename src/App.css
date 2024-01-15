@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  margin: 1rem 4rem 1rem 4rem;
+}
